@@ -18,5 +18,5 @@
 <p>
     <a href="https://drive.google.com/file/d/1fHtcidQBl92VH5frIUjh_UAnHbCIk2Em/view?usp=sharing"><b>Demo Link</b></a>
     <br>
-    <a href="http://169.51.200.127:30475">Website Link</a>
+    <a href="http://169.51.200.127:30475"><b>Website Link</b></a>
 </p>
