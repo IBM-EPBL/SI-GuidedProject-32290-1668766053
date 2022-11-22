@@ -12,6 +12,7 @@
     <li><a href="https://github.com/IBM-EPBL/SI-GuidedProject-32290-1668766053/tree/main/Phases/Project%20Design%20Phase-1">Project Design Phase 1</a></li>
     <li><a href="https://github.com/IBM-EPBL/SI-GuidedProject-32290-1668766053/tree/main/Phases/Project%20Design%20Phase-2">Project Design Phase 1</a></li>
     <li><a href="https://github.com/IBM-EPBL/SI-GuidedProject-32290-1668766053/tree/main/Phases/Project%20planning%20phase">Project Planning Phase</a></li>
+    <li><a href="https://github.com/IBM-EPBL/SI-GuidedProject-32290-1668766053/tree/main/Phases/Project%20Development%20Phase">Project Development Phase</a></li>
 </ul>
 <br>
 <hr>
